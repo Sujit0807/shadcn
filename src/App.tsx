@@ -11,9 +11,7 @@ function App() {
   return (
     <Dialog>
       <div className="flex justify-center">
-        <DialogTrigger className="font-red-500">
-          Hello Open This Dialog
-        </DialogTrigger>
+        <DialogTrigger className="font-red-500">Click Me</DialogTrigger>
       </div>
       <DialogContent>
         <DialogHeader>
